@@ -6,6 +6,7 @@
 
 ## Observability
 
-* [Thanos](https://thanos.io/) ::  Highly available Prometheus setup with long term storage capabilities
 * [Hubble](https://github.com/cilium/hubble) :: Network, Service & Security Observability for Kubernetes using eBPF
 * [k8sgpt](http://k8sgpt.ai/) :: Giving Kubernetes Superpowers to everyone
+* [Skywalking](https://skywalking.apache.org/) :: Application Performance Monitoring System
+* [Thanos](https://thanos.io/) ::  Highly available Prometheus setup with long term storage capabilities
