@@ -10,3 +10,4 @@
 * [k8sgpt](http://k8sgpt.ai/) :: Giving Kubernetes Superpowers to everyone
 * [Skywalking](https://skywalking.apache.org/) :: Application Performance Monitoring System
 * [Thanos](https://thanos.io/) ::  Highly available Prometheus setup with long term storage capabilities
+* [Vector](https://vector.dev/) :: A high-performance observability data pipeline
