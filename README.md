@@ -4,6 +4,11 @@
 * [Meshery](https://meshery.io/) ::  The cloud native manager
 
 
+## Delivery
+
+* [Argo](https://argo-cd.readthedocs.io/) :: Declarative Continuous Deployment for Kubernetes
+
+
 ## Networking
 
 * [Cilium](https://github.com/cilium/cilium) ::  eBPF-based Networking, Security, and Observability
@@ -17,6 +22,11 @@
 * [Skywalking](https://skywalking.apache.org/) :: Application Performance Monitoring System
 * [Thanos](https://thanos.io/) ::  Highly available Prometheus setup with long term storage capabilities
 * [Vector](https://vector.dev/) :: A high-performance observability data pipeline
+
+
+## Scaling
+
+* [Keda](https://keda.sh/) :: Event Driven Autoscaling component
 
 
 ## Security
