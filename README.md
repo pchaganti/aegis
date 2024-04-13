@@ -1,3 +1,9 @@
+## Automation
+
+* [Meshery]([https://github.com/cilium/cilium](https://meshery.io/)) ::  The cloud native manager
+* [Submariner](https://submariner.io) :: Networking component for interconnecting Pods and Services across Kubernetes clusters
+
+
 ## Networking
 
 * [Cilium](https://github.com/cilium/cilium) ::  eBPF-based Networking, Security, and Observability
