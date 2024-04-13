@@ -38,6 +38,6 @@
 
 ## Service Mesh
 
-* [linkerd](https://linkerd.io/) :: Ultralight, security-first service mesh for Kubernetes
+* [Linkerd](https://linkerd.io/) :: Ultralight, security-first service mesh for Kubernetes
 
 
