@@ -1,7 +1,7 @@
 ## Automation
 
+* [Cadence](https://cadenceworkflow.io/) :: Distributed, scalable, durable, and highly available orchestration engine
 * [Meshery](https://meshery.io/) ::  The cloud native manager
-* [Submariner](https://submariner.io) :: Networking component for interconnecting Pods and Services across Kubernetes clusters
 
 
 ## Networking
