@@ -1,6 +1,6 @@
 ## Automation
 
-* [Meshery]([https://github.com/cilium/cilium](https://meshery.io/)) ::  The cloud native manager
+* [Meshery](https://meshery.io/) ::  The cloud native manager
 * [Submariner](https://submariner.io) :: Networking component for interconnecting Pods and Services across Kubernetes clusters
 
 
