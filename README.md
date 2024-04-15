@@ -41,6 +41,7 @@
 ## Security
 
 * [Falco](https://falco.org/) ::  Cloud Native Runtime Security
+* [Kubescape](https://kubescape.io/) ::  Security platform for your IDE, CI/CD pipelines, and clusters
 * [Kyverno](https://kyverno.io/) ::  Kubernetes Native Policy Management
 * [Open Policy Agent](https://www.openpolicyagent.org/) ::  Open source, general-purpose policy engine
 
