@@ -8,7 +8,8 @@
 
 ## Chaos
 
-* [Chaos Mesh](https://chaos-mesh.org/) :: A Chaos Engineering Platform for Kubernetes
+* [Chaos Blade](https://chaosblade.io/en/) :: Chaos engineering experiment toolkit
+* [Chaos Mesh](https://chaos-mesh.org/) :: Chaos Engineering Platform for Kubernetes
 
 
 ## Delivery
@@ -29,7 +30,7 @@
 * [Opencost](http://opencost.io/) :: Cost monitoring for Kubernetes workloads and cloud costs
 * [Skywalking](https://skywalking.apache.org/) :: Application Performance Monitoring System
 * [Thanos](https://thanos.io/) ::  Highly available Prometheus setup with long term storage capabilities
-* [Vector](https://vector.dev/) :: A high-performance observability data pipeline
+* [Vector](https://vector.dev/) :: High-performance observability data pipeline
 
 
 ## Scaling
