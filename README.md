@@ -4,6 +4,11 @@
 * [Meshery](https://meshery.io/) ::  The cloud native manager
 
 
+## Chaos
+
+* [Chaos Mesh](https://chaos-mesh.org/) :: A Chaos Engineering Platform for Kubernetes
+
+
 ## Delivery
 
 * [Argo](https://argo-cd.readthedocs.io/) :: Declarative Continuous Deployment for Kubernetes
