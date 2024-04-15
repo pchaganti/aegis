@@ -2,6 +2,7 @@
 
 * [Cadence](https://cadenceworkflow.io/) :: Distributed, scalable, durable, and highly available orchestration engine
 * [Karmada](https://karmada.io) :: Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration
+* [KubeVela](https://kubevela.io) :: The Modern Application Platform
 * [Meshery](https://meshery.io/) ::  The cloud native manager
 
 
